@@ -1,0 +1,23 @@
+# Ignorerer JavaScript-filer med API-nøkler
+farteBot.js
+
+# Generelle ignoreringsregler for Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# IDE og editor-filer
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Systemfiler
+.DS_Store
+Thumbs.db
