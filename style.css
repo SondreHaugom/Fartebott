@@ -106,6 +106,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .userMessage {
     background-color: #d1e7dd;
@@ -117,6 +118,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .avatar_ikon {
     width: 40px;
@@ -240,6 +242,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .bot_Avatar {
     margin-left:1px;
@@ -266,6 +269,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .disclaimer {
     text-align: center;
@@ -349,6 +353,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .bot_Avatar {
     margin-left:1px;
@@ -375,6 +380,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 }
@@ -452,6 +458,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .bot_Avatar {
     margin-left:1px;
@@ -478,7 +485,7 @@ footer {
     border-style: solid;
     border-width: 1px;
     border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 }
 
-/* End of mobile media query */
